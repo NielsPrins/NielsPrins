@@ -1,16 +1,32 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/NielsPrins/NielsPrins/main/banner.png "Banner")](https://www.nielsprins.com/)
 
-<!--
-**NielsPrins/NielsPrins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, coders!
+My name is Niels Prins and I'm a Software Developer<br/>
+🌍 from the Netherlands,<br/>
+👨‍🎓 student at Hogeschool Leiden<br/>
+💼 working at FreshPortal software.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=0366d6)
+![](<https://img.shields.io/badge/Code-C Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=0366d6>)
+![](https://img.shields.io/badge/Code-AutoHotkey-informational?style=flat&logo=habr&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Frameworks-Angular-informational?style=flat&logo=angular&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=0366d6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 Learning
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0366d6)
+
+## 📈 Stats
+[![NielsPrins's github stats](https://github-readme-stats.vercel.app/api?username=NielsPrins&count_private=true&show_icons=true&line_height=20&title_color=0366d6&icon_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NielsPrins&count_private=true&langs_count=6&layout=compact&title_color=0366d6&icon_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
