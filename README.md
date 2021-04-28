@@ -23,10 +23,13 @@ My name is Niels Prins and I'm a Software Developer<br/>
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=0366d6)
 
 
 ## 📚 Learning
+![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0366d6)
 
 ## 📈 Stats
