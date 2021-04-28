@@ -15,16 +15,18 @@ My name is Niels Prins and I'm a Software Developer<br/>
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=0366d6)
 ![](<https://img.shields.io/badge/Code-C Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=0366d6>)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Code-AutoHotkey-informational?style=flat&logo=habr&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/SDK-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Frameworks-Angular-informational?style=flat&logo=angular&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=0366d6)
 
 
 ## 📚 Learning
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0366d6)
 
 ## 📈 Stats
