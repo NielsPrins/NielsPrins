@@ -33,5 +33,4 @@ My name is Niels Prins and I'm a Software Developer<br/>
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0366d6)
 
 ## 📈 Stats
-[![NielsPrins's github stats](https://github-readme-stats.vercel.app/api?username=NielsPrins&count_private=true&show_icons=true&line_height=20&title_color=0366d6&icon_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NielsPrins&count_private=true&langs_count=6&layout=compact&title_color=0366d6&icon_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NielsPrins&count_private=true&langs_count=10&layout=compact&title_color=0366d6&icon_color=0366d6&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![NielsPrins's github stats](https://github-readme-stats.vercel.app/api?username=NielsPrins&count_private=true&show_icons=true&line_height=28&title_color=0366d6&icon_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
