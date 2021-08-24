@@ -4,7 +4,6 @@
 My name is Niels Prins and I'm a Software Developer<br/>
 🌍 from the Netherlands,<br/>
 👨‍🎓 student at Hogeschool Leiden<br/>
-💼 working at FreshPortal software.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
