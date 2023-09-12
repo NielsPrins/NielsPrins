@@ -30,6 +30,7 @@ My name is Niels Prins and I'm a Software Developer<br/>
 
 ## 📚 Learning
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=0366d6)
 
 ## 📈 Stats
