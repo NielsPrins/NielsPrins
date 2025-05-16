@@ -3,8 +3,8 @@
 # 👋 Hello, coders!
 My name is Niels Prins and I'm a Software Developer<br/>
 🌍 from the Netherlands,<br/>
-👨‍🎓 student at Hogeschool Leiden<br/>
-💼 working at FreshPortal software.
+👨‍🎓 I studied at Hogeschool Leiden<br/>
+💼 and work at FreshPortal software.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
@@ -19,6 +19,8 @@ My name is Niels Prins and I'm a Software Developer<br/>
 ![](https://img.shields.io/badge/Code-AutoHotkey-informational?style=flat&logo=habr&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/SDK-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Frameworks-Angular-informational?style=flat&logo=angular&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=0366d6)
@@ -26,12 +28,6 @@ My name is Niels Prins and I'm a Software Developer<br/>
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=0366d6)
-
-
-## 📚 Learning
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=0366d6)
 
 ## 📈 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
